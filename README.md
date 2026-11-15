@@ -9,6 +9,8 @@ Download from Kaggle: https://www.kaggle.com/datasets/artermiloff/steam-games-da
 
 ## Project Structure
 - `notebooks/` — Jupyter notebooks (contains the data audit, preprocessing, and baseline model)
+  - `Milestone2_Data_and_Baseline.ipynb`
+  - `Milestone3_Model_Comparison.ipynb`
 - `src/` — reusable Python functions (if needed)
 - `data/` — download instructions (data not committed)
 - `requirements.txt` — required packages
